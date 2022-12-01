@@ -34,7 +34,6 @@
  - <i>with Css, Html, Javascript and...</i>
       
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/KThemahdii/)
-  and also <a href="https://www.instagram.com/imahdii7/">INSTAGRAM<a/>
  
  <p align="center">
   <h4> Back End Programming </h4>
