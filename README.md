@@ -6,7 +6,6 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/mahdi-keramati-b82852238"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/KThemahdii"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
@@ -16,7 +15,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/KThemahdii"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KThemahdii?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@KThemahdii"></a>
+
  </p>
  
  <h5 align="center">
@@ -33,7 +32,7 @@
  
  - <i>with Css, Html, Javascript and...</i>
       
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/KThemahdii/)
+ - 💬 Connect? lets get social 👉🏼
  
  <p align="center">
   <h4> Back End Programming </h4>
