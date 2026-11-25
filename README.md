@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=160%C2%A7ion=header&text=Mahdi%20Keramati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-End%20Developer%20%7C%20Python/Django%20Node%20JS/Express%20JS&descSize=18&descAlignY=58&descColor=C9D1D9" alt="Mahdi Keramati — Back-End Developer | Python/Django - Node JS / Express JS" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=160&section=header&text=Mahdi%20Keramati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-End%20Developer%20%7C%20Python%2FDjango%20%C2%B7%20Node.js%2FExpress&descSize=18&descAlignY=58&descColor=C9D1D9" alt="Mahdi Keramati — Back-End Developer" width="100%">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Back-End+Developer+%7C+Python+%2F+Django+%2F+Node Js;APIs+%C2%B7+RADIUS+%C2%B7+Docker;Open+to+remote+roles" alt="Back-End Developer | Python / Django - Node JS / Express JS">
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Back-End+Developer+%7C+Python+%2F+Django+%2F+Node.js;APIs+%C2%B7+RADIUS+%C2%B7+Docker;Open+to+remote+roles" alt="Back-End Developer | Python / Django / Node.js">  <br>
   <a href="https://www.linkedin.com/in/mahdi-keramati-b82852238"><img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Keramati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
